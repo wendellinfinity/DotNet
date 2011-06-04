@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\bin\Debug\DaodaoKinectTest.exe
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\bin\Debug\DaodaoKinectTest.pdb
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\bin\Debug\DaodaoKinect.dll
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\bin\Debug\DaodaoKinect.pdb
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\obj\Debug\DaodaoKinectTest.exe
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\obj\Debug\DaodaoKinectTest.pdb
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinectTest\bin\Debug\OpenNI.net.dll
+C:\Projects\DaoDaoKinect\DaodaoKinectTest\obj\Debug\DaodaoKinectTest.exe
+C:\Projects\DaoDaoKinect\DaodaoKinectTest\obj\Debug\DaodaoKinectTest.pdb

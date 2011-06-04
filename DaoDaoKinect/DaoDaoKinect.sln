@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaodaoKinect", "DaodaoKinect\DaodaoKinect.csproj", "{3323C7DF-FBB9-470B-902B-2D11BFE32A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaodaoKinectTest", "DaodaoKinectTest\DaodaoKinectTest.csproj", "{47F0C351-D6F2-42F8-A872-D64B23633D0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installers", "Installers", "{D66BD0F9-32E0-4A23-8D84-F1FC28A671B0}"
+	ProjectSection(SolutionItems) = preProject
+		Installers\01 OpenNI-Bin-Win32-v1.0.0.25.exe = Installers\01 OpenNI-Bin-Win32-v1.0.0.25.exe
+		Installers\02 SensorKinect-Win32-5.0.0.exe = Installers\02 SensorKinect-Win32-5.0.0.exe
+		Installers\03 NITE-Bin-Win32-v1.3.0.18.exe = Installers\03 NITE-Bin-Win32-v1.3.0.18.exe
+		Installers\04 KinectXMLs.zip = Installers\04 KinectXMLs.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3323C7DF-FBB9-470B-902B-2D11BFE32A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3323C7DF-FBB9-470B-902B-2D11BFE32A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3323C7DF-FBB9-470B-902B-2D11BFE32A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3323C7DF-FBB9-470B-902B-2D11BFE32A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F0C351-D6F2-42F8-A872-D64B23633D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F0C351-D6F2-42F8-A872-D64B23633D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F0C351-D6F2-42F8-A872-D64B23633D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F0C351-D6F2-42F8-A872-D64B23633D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

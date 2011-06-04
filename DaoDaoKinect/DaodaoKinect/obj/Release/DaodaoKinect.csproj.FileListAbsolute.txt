@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\bin\Release\DaodaoKinect.dll
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\bin\Release\DaodaoKinect.pdb
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\bin\Release\OpenNI.net.dll
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\DaodaoKinect.XmlFiles.resources
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\DaodaoKinect.dll
+C:\Documents and Settings\Administrator\Desktop\Kinect\ToxNUIConsole\DaodaoKinect\obj\Release\DaodaoKinect.pdb
